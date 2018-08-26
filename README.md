@@ -33,6 +33,8 @@ Here's a walkthrough of implemented user stories:
 ## Notes
 
 Describe any challenges encountered while building the app.
+Came in with no knowledge of swift, so the extra addons were difficult to try to implement. In addition it was hard to 
+find revelant documentation to improve on my app, but I will improve this app over the coming weeks.
 
 ## License
 
